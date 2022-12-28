@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  padding: 0;
+}
+
+
+#afooter {
+  text-decoration: none;
+}
+
+#footer{
+  margin-bottom: -16px;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

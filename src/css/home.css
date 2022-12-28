@@ -1,0 +1,7 @@
+#principale{
+    height: 80vh;
+    background-image: url('/src/images/image1.jfif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

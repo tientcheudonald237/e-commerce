@@ -1,0 +1,46 @@
+#button{
+    padding-left: 2.5rem; 
+    padding-right: 2.5rem;
+    background-color: #58962B;
+}
+
+section{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.image{
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.image-sc{
+    background-image: url(/src/images/img2.png);
+}
+
+.image-sv{
+    background-image: url(/src/images/img3.jfif);
+}
+
+#principal{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    gap: 7vh;
+    align-items: flex-start;
+    width: 55%;
+}
+
+#Link{
+    text-decoration: none;
+    color: #58962B;
+}
+
+.form-control{
+    width: 30vw;
+    height: 6vh;
+}
