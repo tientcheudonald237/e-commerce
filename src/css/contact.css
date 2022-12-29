@@ -1,0 +1,47 @@
+
+.text-uppercase{
+    color: #173b6c;
+}
+iframe{
+    height:70vh; 
+    width: inherit;
+}
+
+.mapouter{
+    position:relative;
+    text-align:left;
+    height:70vh;
+    width: 100%;
+}
+
+.gmap_canvas{
+    overflow:hidden;
+    background:none!important;
+    height:70vh;
+    width: 100%;
+}
+#article{
+    background-color: #f5f8fd; 
+    width: 48%; 
+    margin-left: 3px solid #f5f8fd;
+}
+
+#service{
+    background-color: #fff;
+    margin-bottom: 10vh;
+}
+
+#service-div{
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+#form{
+    background-color: #f5f8fd; 
+    width: 48%; 
+    margin-left: 4%;
+}
+
+#service{
+    height: 110vh;
+}
